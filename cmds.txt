@@ -1,0 +1,19 @@
+# webs
+https://cevalbenchmark.com/
+https://tatsu-lab.github.io/alpaca_eval/
+https://n2j1osb31n.feishu.cn/docx/OM3hdXKjGoUDadxUa1VcB8ISnId?from=from_copylink
+
+# models
+google: gemini
+ali: qwen
+meta: llama
+amazon: claude
+
+# projects
+https://github.com/huggingface/peft
+https://github.com/QwenLM/Qwen
+
+# ssh
+cd /tmp/pycharm_project_962
+
+
